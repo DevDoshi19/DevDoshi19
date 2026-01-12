@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🔍 Currently exploring: Machine Learning concepts and building AI-powered applications.<br>📘 Learning: Deep Learning, Generative AI (LangChain, LLM workflows), deployment, and DSA.<br>💡 Areas of interest: AI systems, LLM-based solutions, and practical problem-solving using technology.</h3>
+<h4 align="left">🔍 Currently exploring: Machine Learning concepts and building AI-powered applications.<br>📘 Learning: Deep Learning, Generative AI (LangChain, LLM workflows), deployment, and DSA.<br>💡 Areas of interest: AI systems, LLM-based solutions, and practical problem-solving using technology.</h4>
 
 ###
 

@@ -1,18 +1,18 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6C3483,100:A855F7&height=220&section=header&text=Dev%20Doshi&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20·%20Generative%20AI%20Builder&descAlignY=56&descAlign=50&descSize=21" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:110000,50:7B0D0D,100:C0392B&height=220&section=header&text=Dev%20Doshi&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20·%20Generative%20AI%20Builder&descAlignY=56&descAlign=50&descSize=21" />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Building+Intelligent+Systems+from+Scratch+%F0%9F%9A%80;LLM+Pipelines+%7C+Agentic+AI+%7C+GenAI+Applications;LangChain+%E2%80%A2+LangGraph+%E2%80%A2+LangSmith+%E2%80%A2+FastMCP;Learning+in+Public+%E2%80%94+One+Commit+at+a+Time+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C0392B&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Building+Intelligent+Systems+from+Scratch+%F0%9F%9A%80;LLM+Pipelines+%7C+Agentic+AI+%7C+GenAI+Applications;LangChain+%E2%80%A2+LangGraph+%E2%80%A2+LangSmith+%E2%80%A2+FastMCP;Learning+in+Public+%E2%80%94+One+Commit+at+a+Time+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-![Academic](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6C3483?style=for-the-badge&logoColor=white)&nbsp;
-![CGPA](https://img.shields.io/badge/CGPA-9.48-A855F7?style=for-the-badge&logoColor=white)&nbsp;
-![Location](https://img.shields.io/badge/📍-Gujarat%2C%20India-6C3483?style=for-the-badge)
+![Academic](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-7B0D0D?style=for-the-badge&logoColor=white)&nbsp;
+![CGPA](https://img.shields.io/badge/CGPA-9.48-C0392B?style=for-the-badge&logoColor=white)&nbsp;
+![Location](https://img.shields.io/badge/📍-Gujarat%2C%20India-7B0D0D?style=for-the-badge)
 
 </div>
 
@@ -29,8 +29,6 @@
 
 ## ◈ About
 
-<img align="right" width="280" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" />
-
 ```python
 class DevDoshi:
     role      = "AI Engineer & LLM Systems Builder"
@@ -43,16 +41,17 @@ class DevDoshi:
     motto     = "Build real things. Learn in public. Ship often."
 ```
 
-AI & Data Science undergraduate with a **9.48 CGPA**, specializing in LLM applications, multi-agent systems, and automation pipelines. I believe in learning by building, every repository here is a production-grade system, not a tutorial project.
+AI & Data Science undergraduate with a **9.48 CGPA**, specializing in LLM applications, multi-agent systems, and automation pipelines. I believe in learning by building every repository here is a production-grade system, not a tutorial project.
 
-I specialize in **LLM orchestration**, **MCP server development**, and **agentic pipeline engineering** designing intelligent, autonomous workflows with LangGraph, LangSmith, and FastMCP. Currently building at the intersection of real-world AI deployment and observable, maintainable system design.
+I specialize in **LLM orchestration**, **MCP server development**, and **agentic pipeline engineering** — designing intelligent, autonomous workflows with LangGraph, LangSmith, and FastMCP. Currently building at the intersection of real-world AI deployment and observable, maintainable system design.
 
-**Open To:**
-- AI/ML Engineering Internships
-- LLM / Generative AI Research Collaborations
-- Freelance AI Systems Development
+<br/>
 
-<br clear="both"/>
+**Open To**
+
+![AI Engineering Role](https://img.shields.io/badge/AI%2FML%20Engineering%20Internships-7B0D0D?style=for-the-badge&logoColor=white)&nbsp;
+![SDE Role](https://img.shields.io/badge/GenAI%20Research%20Collaborations-C0392B?style=for-the-badge&logoColor=white)&nbsp;
+![Freelance](https://img.shields.io/badge/Freelance%20AI%20Development-8B1010?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -82,10 +81,10 @@ I specialize in **LLM orchestration**, **MCP server development**, and **agentic
 **LLM / GenAI Stack**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)&nbsp;
-![LangGraph](https://img.shields.io/badge/LangGraph-4A0E8F?style=flat-square&logoColor=white)&nbsp;
-![LangSmith](https://img.shields.io/badge/LangSmith-6C3483?style=flat-square&logoColor=white)&nbsp;
-![FastMCP](https://img.shields.io/badge/FastMCP-A855F7?style=flat-square&logoColor=white)&nbsp;
-![Anthropic](https://img.shields.io/badge/Claude%20API-0d0221?style=flat-square&logo=anthropic&logoColor=A855F7)&nbsp;
+![LangGraph](https://img.shields.io/badge/LangGraph-7B0D0D?style=flat-square&logoColor=white)&nbsp;
+![LangSmith](https://img.shields.io/badge/LangSmith-A31515?style=flat-square&logoColor=white)&nbsp;
+![FastMCP](https://img.shields.io/badge/FastMCP-C0392B?style=flat-square&logoColor=white)&nbsp;
+![Anthropic](https://img.shields.io/badge/Claude%20API-110000?style=flat-square&logo=anthropic&logoColor=C0392B)&nbsp;
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)&nbsp;
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)&nbsp;
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)&nbsp;
@@ -121,54 +120,13 @@ I specialize in **LLM orchestration**, **MCP server development**, and **agentic
 
 ---
 
-## ◈ Featured Projects
-
-<details>
-<summary><b>🎓 CareerForge AI — Full-Stack Career Intelligence Platform</b></summary>
-<br/>
-
-A full-stack AI-powered career platform combining an ATS resume scanner, dual-mode resume builder, and a context-aware career chatbot — all in one production-ready system.
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python · LangChain · FastAPI · Streamlit · SQLite · Gemini API |
-| **Architecture** | Modular FastAPI backend with LangChain-powered reasoning and Streamlit frontend |
-| **Performance** | Dual-mode PDF resume generation (Modern + Classic) in under 20 seconds |
-| **Scale** | Persistent multi-user session storage via async SQLite |
-| **Impact** | ATS scanner evaluates resumes against 100+ keywords — returns score, salary estimate, skill gaps, and actionable tips |
-| **Repository** | [CareerForge-AI on GitHub](https://github.com/DevDoshi19?tab=repositories) |
-
-End-to-end career intelligence tool: the ATS scanner benchmarks resumes against job descriptions using 100+ keyword signals, the resume builder exports polished PDFs in two formats, and a context-aware chatbot handles resume Q&A with persistent memory across sessions. Designed with a clean API boundary between the Streamlit UI and FastAPI backend for maintainability and independent scaling.
-
-</details>
-
-<details>
-<summary><b>🧠 VaultMind AI — Personal Finance Intelligence Platform</b></summary>
-<br/>
-
-An intelligent personal finance and fundamental analysis assistant that transforms raw financial data into structured, conversational insights — built for investors who think, not just track.
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python · LangChain · LangGraph · FastAPI · Streamlit · ChromaDB |
-| **Architecture** | RAG pipeline over financial documents with LangGraph reasoning agent |
-| **Scale** | Multi-session persistent storage with scoped user context isolation |
-| **Observability** | LangSmith tracing for prompt iteration and evaluation |
-| **Impact** | Enables natural language querying over financial statements, ratios, and market data |
-| **Repository** | [VaultMind AI on GitHub](https://github.com/DevDoshi19?tab=repositories) |
-
-Built around a RAG pipeline ingesting financial documents and reports, with a LangGraph agent that can reason across multiple data sources to answer investment questions. ChromaDB powers semantic retrieval over embedded financial content, while a FastAPI backend and Streamlit frontend provide a clean, interactive experience.
-
-</details>
-
----
 
 ## ◈ Experience
 
 **AI Engineer** · *AIGyde*
 `May 2026` — `Present`
 
-Designed and deployed a production-grade AI News Creation Pipeline that autonomously monitors, summarizes, and delivers the latest news to subscribers — fully automated, zero manual intervention.
+Designed and deployed a production-grade AI News Creation Pipeline that autonomously monitors, summarizes, and delivers the latest news to mail fully automated, zero manual intervention.
 
 - Built an end-to-end news aggregation and summarization system using LangChain and LLM APIs, covering events from the past 24 hours
 - Architected a scheduled email delivery engine that triggers every 3 hours, sourcing fresh news via NewsAPI and formatting with Jinja2 templates
@@ -177,9 +135,9 @@ Designed and deployed a production-grade AI News Creation Pipeline that autonomo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)&nbsp;
-![LangSmith](https://img.shields.io/badge/LangSmith-6C3483?style=flat-square)&nbsp;
-![NewsAPI](https://img.shields.io/badge/NewsAPI-000000?style=flat-square&logoColor=white)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)&nbsp;
+![LangSmith](https://img.shields.io/badge/LangSmith-A31515?style=flat-square)&nbsp;
+![Tavily API](https://img.shields.io/badge/TAvilyAPI-110000?style=flat-square&logoColor=white)&nbsp;
+![Gamil auth](https://img.shields.io/badge/GmailAuth-009688?style=flat-square&logo=GmailAuth&logoColor=white)&nbsp;
 
 ---
 
@@ -219,7 +177,7 @@ Designed and deployed a production-grade AI News Creation Pipeline that autonomo
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/DevDoshi19)&nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/devdoshi1927)&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/devdoshzh1q)&nbsp;
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/devdoshzh1q)
 
 </div>
 
@@ -229,15 +187,14 @@ Designed and deployed a production-grade AI News Creation Pipeline that autonomo
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=DevDoshi19&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0221" />&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDoshi19&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&bg_color=0d0221" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDoshi19&layout=compact&hide_border=true&langs_count=8&bg_color=110000&title_color=C0392B&text_color=ffffff" />
 
 </div>
 
 <div align="center">
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DevDoshi19&theme=midnight-purple&hide_border=true&background=0d0221&stroke=A855F7&ring=6C3483&fire=A855F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A855F7&sideLabels=A855F7&dates=777777" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DevDoshi19&hide_border=true&background=110000&stroke=C0392B&ring=7B0D0D&fire=C0392B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=C0392B&sideLabels=C0392B&dates=888888" />
 
 </div>
 
@@ -247,17 +204,9 @@ Designed and deployed a production-grade AI News Creation Pipeline that autonomo
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevDoshi19&bg_color=0d0221&color=A855F7&line=6C3483&point=ffffff&area=true&area_color=6C3483&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevDoshi19&bg_color=110000&color=C0392B&line=7B0D0D&point=ffffff&area=true&area_color=7B0D0D&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
----
-
-## ◈ Open to
-
-
-    - "AI/ML Engineering Internships"
-    - "Generative AI Research Collaborations"
-    - "Freelance AI Systems Development"
 
 ---
 
@@ -276,10 +225,10 @@ Designed and deployed a production-grade AI News Creation Pipeline that autonomo
 
 <div align="center">
 
-*"The best way to understand intelligent systems is to build one - imperfectly, iteratively, in public."*
+*"The best way to understand intelligent systems is to build one — imperfectly, iteratively, in public."*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6C3483,100:0d0221&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,50:7B0D0D,100:110000&height=120&section=footer" />
 
 </div>

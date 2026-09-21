@@ -1,9 +1,9 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:110000,50:7B0D0D,100:C0392B&height=220&section=header&text=Dev%20Doshi&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20·%20Generative%20AI%20Builder&descAlignY=56&descAlign=50&descSize=21" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:110000,50:7B0D0D,100:C0392B&height=220&section=header&text=Dev%20Doshi&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20Systems&descAlignY=56&descAlign=50&descSize=21" alt="Dev Doshi header" />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C0392B&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Building+Intelligent+Systems+from+Scratch+%F0%9F%9A%80;LLM+Pipelines+%7C+Agentic+AI+%7C+GenAI+Applications;LangChain+%E2%80%A2+LangGraph+%E2%80%A2+LangSmith+%E2%80%A2+FastMCP;Learning+in+Public+%E2%80%94+One+Commit+at+a+Time+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C0392B&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Building+Reliable+Backend+Systems+%F0%9F%9A%80;APIs+%7C+Databases+%7C+Caching+%7C+System+Design;Python+%E2%80%A2+Node.js+%E2%80%A2+FastAPI+%E2%80%A2+Redis+%E2%80%A2+Docker;Open+to+SDE+Roles+%E2%80%94+2027+Batch+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdoshi19/)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdoshi1927@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevDoshi19)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DevDoshi_19/)&nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/devdoshi1927)
 
 </div>
@@ -31,27 +31,28 @@
 
 ```python
 class DevDoshi:
-    role      = "AI Engineer & LLM Systems Builder"
+    role      = "Software Engineer (backend-leaning)"
     degree    = "B.Tech — Artificial Intelligence & Data Science"
     cgpa      = 9.48
     institute = "ADIT, CVM University"
-    focus     = ["Generative AI", "Agentic Workflows", "MCP Servers"]
-    stack     = ["LangChain", "LangGraph", "LangSmith", "FastMCP", "FastAPI"]
-    learning  = ["Deep Learning", "DSA", "RAG Optimization"]
-    motto     = "Build real things. Learn in public. Ship often."
+    batch     = 2027
+    focus     = ["Backend Systems", "API Design", "Data Consistency"]
+    stack     = ["Python", "Node.js", "FastAPI", "PostgreSQL", "MongoDB", "Redis"]
+    practicing = ["DSA", "Low-Level Design", "System Design"]
+    motto     = "Make it correct, then fast, then observable. Ship often."
 ```
 
-AI & Data Science undergraduate with a **9.48 CGPA**, specializing in LLM applications, multi-agent systems, and automation pipelines. I believe in learning by building every repository here is a production-grade system, not a tutorial project.
+Final-year engineering student with a **9.48 CGPA** who likes the unglamorous parts of software: **race conditions, idempotency, failure modes, and latency budgets**. Most of my projects start from a systems question ("how do I make a transfer atomic?", "how do I stop this endpoint from being abused?") and end with something containerized and deployable.
 
-I specialize in **LLM orchestration**, **MCP server development**, and **agentic pipeline engineering** — designing intelligent, autonomous workflows with LangGraph, LangSmith, and FastMCP. Currently building at the intersection of real-world AI deployment and observable, maintainable system design.
+I also build LLM-powered systems, but I treat them as one more service to design, test, cache, rate-limit, and monitor properly.
 
 <br/>
 
 **Open To**
 
-![AI Engineering Role](https://img.shields.io/badge/AI%2FML%20Engineering%20Internships-7B0D0D?style=for-the-badge&logoColor=white)&nbsp;
-![SDE Role](https://img.shields.io/badge/GenAI%20Research%20Collaborations-C0392B?style=for-the-badge&logoColor=white)&nbsp;
-![Freelance](https://img.shields.io/badge/Freelance%20AI%20Development-8B1010?style=for-the-badge&logoColor=white)
+![SDE](https://img.shields.io/badge/SDE%20%2F%20Backend%20Roles-7B0D0D?style=for-the-badge&logoColor=white)&nbsp;
+![Internships](https://img.shields.io/badge/Engineering%20Internships-C0392B?style=for-the-badge&logoColor=white)&nbsp;
+![Freelance](https://img.shields.io/badge/Freelance%20Backend%20%26%20AI-8B1010?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -59,85 +60,144 @@ I specialize in **LLM orchestration**, **MCP server development**, and **agentic
 
 **Languages**
 
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)&nbsp;
-[![SQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://mysql.com)&nbsp;
-[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://isocpp.org)
+[![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://python.org)&nbsp;
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/docs/Web/JavaScript)&nbsp;
+[![SQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://postgresql.org)
 
 **Backend & APIs**
 
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)&nbsp;
+[![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com)&nbsp;
 [![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com)&nbsp;
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://docker.com)&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)&nbsp;
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)&nbsp;
+![REST](https://img.shields.io/badge/REST_APIs-7B0D0D?style=flat-square&logoColor=white)&nbsp;
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-C0392B?style=flat-square&logoColor=white)
 
-**ML / DL Frameworks**
+**Databases & Caching**
 
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://tensorflow.org)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://postgresql.org)&nbsp;
+[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://mongodb.com)&nbsp;
+[![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://redis.io)
 
-**LLM / GenAI Stack**
+**DevOps & Cloud**
+
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://docker.com)&nbsp;
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark)](https://kubernetes.io)&nbsp;
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://github.com/features/actions)&nbsp;
+[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://aws.amazon.com)&nbsp;
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
+
+**Applied AI (secondary)**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)&nbsp;
 ![LangGraph](https://img.shields.io/badge/LangGraph-7B0D0D?style=flat-square&logoColor=white)&nbsp;
 ![LangSmith](https://img.shields.io/badge/LangSmith-A31515?style=flat-square&logoColor=white)&nbsp;
 ![FastMCP](https://img.shields.io/badge/FastMCP-C0392B?style=flat-square&logoColor=white)&nbsp;
-![Anthropic](https://img.shields.io/badge/Claude%20API-110000?style=flat-square&logo=anthropic&logoColor=C0392B)&nbsp;
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)&nbsp;
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)&nbsp;
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-
-**Vector Stores & Automation**
-
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)&nbsp;
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)&nbsp;
-![FAISS](https://img.shields.io/badge/FAISS-0057B8?style=flat-square&logoColor=white)&nbsp;
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)&nbsp;
-![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-
-**Tools**
-
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)&nbsp;
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://github.com/features/actions)&nbsp;
-[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://figma.com)
+![FAISS](https://img.shields.io/badge/FAISS-0057B8?style=flat-square&logoColor=white)
 
 ---
 
-## ◈ AI / ML Expertise
+## ◈ Featured Projects
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **LLM Orchestration** | `████████░░` Advanced | LangChain, LCEL, multi-step agentic pipelines |
-| **Agentic AI Systems** | `████████░░` Advanced | LangGraph state machines, n8n multi-agent routing |
-| **MCP Server Development** | `████████░░` Advanced | FastMCP typed tools, async SQLite, cloud deployment |
-| **LLM Observability** | `███████░░░` Intermediate | LangSmith tracing, evaluation, prompt versioning |
-| **Generative AI (RAG)** | `████████░░` Advanced | RAG pipelines, vector stores, retrieval tuning |
-| **Multi-LLM Integration** | `███████░░░` Intermediate | Gemini, OpenAI, Groq, Ollama, Claude — unified APIs |
-| **Deep Learning** | `██████░░░░` Intermediate | TensorFlow, ANN, CNN — supervised & unsupervised |
-| **Automation Pipelines** | `███████░░░` Intermediate | n8n workflows, Google Sheets API, scheduled agents |
+### 🧠 [VaultMind](https://github.com/DevDoshi19/VaultMind) — Hybrid Retrieval Engine
+
+`Python` `FastAPI` `Pinecone` `BM25` `Redis` `Docker` `Kubernetes` `GitHub Actions`
+
+A production-style retrieval backend, built as a **systems project first, an AI project second**.
+
+- 🔀 **Hybrid retrieval:** Pinecone vector search + BM25, merged with **Reciprocal Rank Fusion**, for a **50% gain in answer accuracy**
+- 🚪 **Relevance gate** using semantic similarity scoring that skips unnecessary LLM calls and cuts **token spend by 30%**
+- ⚡ **Redis caching + per-user rate limiting** (10 req/min): **40% lower latency** and protection from abuse
+- 🛡️ **Multi-layer guardrails:** confidence scoring, prompt-injection defense, topic scoping, response validation
+- 🐳 Decoupled frontend/backend, containerized with Docker, shipped through **GitHub Actions CI/CD**
+
+```mermaid
+flowchart LR
+    Q[Query] --> RL{Rate limit}
+    RL --> G{Relevance gate}
+    G -->|off topic| X[Rejected early]
+    G -->|relevant| C[(Redis cache)]
+    C -->|hit| R[Response]
+    C -->|miss| V[Pinecone vector search]
+    C -->|miss| B[BM25 keyword search]
+    V --> F[RRF fusion]
+    B --> F
+    F --> L[LLM]
+    L --> GR[Guardrails and validation]
+    GR --> R
+```
 
 ---
 
+### 🏦 [Bank Transaction System](https://github.com/DevDoshi19/Bank-Transaction-System) — Concurrent Ledger API
+
+`Node.js` `Express` `MongoDB` `Mongoose` `JWT` `bcrypt`
+
+A banking backend built around one rule: **money must never be created, lost, or duplicated.**
+
+- 📒 **Event-sourced, double-entry ledger:** append-only, immutable credit/debit entries. Balances are *derived* from history instead of stored as mutable state, which removes a whole class of race conditions
+- ⚛️ **Atomic transfers** with MongoDB sessions/transactions: debit and credit succeed together or roll back together
+- 🔑 **Idempotency keys** so retries never create duplicate transactions
+- 🔐 JWT-protected account and system-user flows, account status validation, balance checks
+- 🔄 Full transaction lifecycle: `PENDING` → `COMPLETED` / `FAILED` / `REVERSED`
+
+```mermaid
+sequenceDiagram
+    participant C as Client
+    participant A as API
+    participant D as MongoDB
+    C->>A: POST transfer with idempotency key and JWT
+    A->>A: Validate account status and balance
+    A->>D: Start session and transaction
+    A->>D: Append DEBIT entry
+    A->>D: Append CREDIT entry
+    alt all writes succeed
+        D-->>A: Commit, status COMPLETED
+    else any write fails
+        D-->>A: Rollback, status FAILED
+    end
+    A-->>C: Result
+```
+
+---
+
+### 🧰 More Repositories
+
+| Repo | What it is |
+|------|------------|
+| [**Redis-learning**](https://github.com/DevDoshi19/Redis-learning) | Redis deep-dive: hands-on experiments and notes from learning it properly |
+| [**DSA**](https://github.com/DevDoshi19/DSA) | Data structures & algorithms practice, 270+ problems solved across LeetCode and GFG |
+| [**CareerForge AI**](https://github.com/DevDoshi19/CareerForge-AI) | Full-stack career platform with an ATS scanner and resume builder (Streamlit, LangChain, Gemini) |
+
+---
 
 ## ◈ Experience
 
-**AI Engineer** · *AIGyde*
-`May 2026` — `Present`
+**Software / AI Engineer Intern** · *AIGyde*
+`May 2026` — `Aug 2026`
 
-Designed and deployed a production-grade AI News Creation Pipeline that autonomously monitors, summarizes, and delivers the latest news to mail fully automated, zero manual intervention.
-
-- Built an end-to-end news aggregation and summarization system using LangChain and LLM APIs, covering events from the past 24 hours
-- Architected a scheduled email delivery engine that triggers every 3 hours, sourcing fresh news via NewsAPI and formatting with Jinja2 templates
-- Implemented smart caching and rate-limiting layers to minimize API overhead across high-frequency scheduled runs
-- Integrated LangSmith observability for monitoring summarization quality and iterating on prompt performance in production
+- Audited a live product (BizGyde) across **10+ modules** (RAG reliability, chatbot quality, report generation, session behavior), delivering root-cause diagnoses and a prioritized engineering fix list
+- Designed **FounderTube**, a Discord-style founder community with automated email onboarding pipelines, and delivered the full integration spec to the product team
+- Shipped an internal **automated news pipeline** that scrapes, filters, and summarizes India and startup content, then emails 5 curated items to the team every 3 hours. Saved an estimated **10+ hours of manual research per week**
+- Added caching and rate-limiting to keep API usage low across high-frequency scheduled runs, with LangSmith tracing to monitor output quality
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)&nbsp;
 ![LangSmith](https://img.shields.io/badge/LangSmith-A31515?style=flat-square)&nbsp;
-![Tavily API](https://img.shields.io/badge/TAvilyAPI-110000?style=flat-square&logoColor=white)&nbsp;
-![Gamil auth](https://img.shields.io/badge/GmailAuth-009688?style=flat-square&logo=GmailAuth&logoColor=white)&nbsp;
+![Tavily API](https://img.shields.io/badge/Tavily_API-110000?style=flat-square&logoColor=white)&nbsp;
+![Gmail Auth](https://img.shields.io/badge/Gmail_Auth-009688?style=flat-square&logo=gmail&logoColor=white)
+
+---
+
+## ◈ Currently Sharpening
+
+- 🧩 **DSA:** pattern-based problem solving, graphs are my strong suit
+- 🏗️ **Low-Level Design:** SOLID and design patterns in Python
+- 🌐 **High-Level Design:** distributed systems fundamentals via *Designing Data-Intensive Applications*
+- 🔌 **API design:** rebuilding real backends from scratch to learn where they break
 
 ---
 
@@ -149,8 +209,8 @@ Designed and deployed a production-grade AI News Creation Pipeline that autonomo
 |-------------|---------|
 | 🏆 **Smart India Hackathon** | Participated · 2024 & 2025 |
 | 🎯 **College Ideathon** | Participated · 2024 & 2025 |
+| 🧮 **Problem Solving** | 270+ problems on LeetCode and GeeksforGeeks |
 | 📈 **Academic Excellence** | CGPA 9.48 · B.Tech AI & Data Science · ADIT, CVM University |
-| 🚀 **Production AI Builder** | Multiple end-to-end LLM and MCP systems deployed and live |
 
 </div>
 
@@ -158,16 +218,10 @@ Designed and deployed a production-grade AI News Creation Pipeline that autonomo
 
 ## ◈ Certifications
 
-**SAP · Edunet Foundation**
-
 [![SAP Foundation Course](https://img.shields.io/badge/SAP%20Foundation%20Course-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://edunetfoundation.org)&nbsp;
-![Code Unnati](https://img.shields.io/badge/Code%20Unnati%20Program-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-
-> Python Programming · Data Analysis · Artificial Intelligence · SAP Conversational AI Chatbot — *ADIT, CVM University · 2024–2025 · Certificate ID: CU25_18349*
-
-**HackerRank**
-
 [![Python](https://img.shields.io/badge/HackerRank-Python%20Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/devdoshi1927)
+
+> SAP Foundation Course (Edunet Foundation, 2025) · Python Programming (HackerRank, 2025)
 
 ---
 
@@ -187,24 +241,11 @@ Designed and deployed a production-grade AI News Creation Pipeline that autonomo
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDoshi19&layout=compact&hide_border=true&langs_count=8&bg_color=110000&title_color=C0392B&text_color=ffffff" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDoshi19&layout=compact&hide_border=true&langs_count=8&bg_color=110000&title_color=C0392B&text_color=ffffff" alt="Top languages" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DevDoshi19&hide_border=true&background=110000&stroke=C0392B&ring=7B0D0D&fire=C0392B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=C0392B&sideLabels=C0392B&dates=888888" />
-
-</div>
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevDoshi19&bg_color=110000&color=C0392B&line=7B0D0D&point=ffffff&area=true&area_color=7B0D0D&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://streak-stats.demolab.com?user=DevDoshi19&hide_border=true&background=110000&stroke=C0392B&ring=7B0D0D&fire=C0392B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=C0392B&sideLabels=C0392B&dates=888888" alt="GitHub streak" />
 
 </div>
 
@@ -214,21 +255,19 @@ Designed and deployed a production-grade AI News Creation Pipeline that autonomo
 
 <div align="center">
 
+**Have a backend problem worth solving? Let's talk.**
+
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdoshi1927@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdoshi19/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevDoshi19)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/devdoshi1927)
-
-</div>
-
----
-
-<div align="center">
-
-*"The best way to understand intelligent systems is to build one — imperfectly, iteratively, in public."*
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DevDoshi_19/)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,50:7B0D0D,100:110000&height=120&section=footer" />
+*"Make it correct, then make it fast, then make it observable."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,50:7B0D0D,100:110000&height=120&section=footer" alt="footer" />
 
 </div>

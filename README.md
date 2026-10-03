@@ -1,234 +1,176 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:110000,50:7B0D0D,100:C0392B&height=220&section=header&text=Dev%20Doshi&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20·%20Generative%20AI%20Builder&descAlignY=56&descAlign=50&descSize=21" />
-</div>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C0392B&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Building+Intelligent+Systems+from+Scratch+%F0%9F%9A%80;LLM+Pipelines+%7C+Agentic+AI+%7C+GenAI+Applications;LangChain+%E2%80%A2+LangGraph+%E2%80%A2+LangSmith+%E2%80%A2+FastMCP;Learning+in+Public+%E2%80%94+One+Commit+at+a+Time+%F0%9F%94%A5" alt="Typing SVG" />
-</div>
+# Dev Doshi
 
-<br/>
+**AI & Backend Engineering Student · Systems Builder**
 
-<div align="center">
+I build backend and AI systems to understand how real software works — from retrieval pipelines and LLM workflows to transactions, caching, queues, and system design.
 
-![Academic](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-7B0D0D?style=for-the-badge&logoColor=white)&nbsp;
-![CGPA](https://img.shields.io/badge/CGPA-9.48-C0392B?style=for-the-badge&logoColor=white)&nbsp;
-![Location](https://img.shields.io/badge/📍-Gujarat%2C%20India-7B0D0D?style=for-the-badge)
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdoshi19/)&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdoshi1927@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevDoshi19)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/devdoshi1927)
+[LinkedIn](https://www.linkedin.com/in/devdoshi19/) · [LeetCode](https://leetcode.com/u/DevDoshi_19/) · [HackerRank](https://hackerrank.com/profile/devdoshi1927)
 
 </div>
 
 ---
 
-## ◈ About
+## What I'm Building Toward
 
-```python
-class DevDoshi:
-    role      = "AI Engineer & LLM Systems Builder"
-    degree    = "B.Tech — Artificial Intelligence & Data Science"
-    cgpa      = 9.48
-    institute = "ADIT, CVM University"
-    focus     = ["Generative AI", "Agentic Workflows", "MCP Servers"]
-    stack     = ["LangChain", "LangGraph", "LangSmith", "FastMCP", "FastAPI"]
-    learning  = ["Deep Learning", "DSA", "RAG Optimization"]
-    motto     = "Build real things. Learn in public. Ship often."
-```
+My projects increasingly sit at the intersection of **AI, backend engineering, and distributed-systems thinking**.
 
-AI & Data Science undergraduate with a **9.48 CGPA**, specializing in LLM applications, multi-agent systems, and automation pipelines. I believe in learning by building every repository here is a production-grade system, not a tutorial project.
+I care less about collecting frameworks and more about understanding the problems behind them:
 
-I specialize in **LLM orchestration**, **MCP server development**, and **agentic pipeline engineering** — designing intelligent, autonomous workflows with LangGraph, LangSmith, and FastMCP. Currently building at the intersection of real-world AI deployment and observable, maintainable system design.
+- How do we make an LLM application reliable?
+- How do retrieval, validation, retries, and observability fit together?
+- How do we keep money movement atomic and idempotent?
+- When do caches, queues, workers, and pub/sub actually help?
+- How do we turn these ideas into systems that are easy to reason about?
 
-<br/>
-
-**Open To**
-
-![AI Engineering Role](https://img.shields.io/badge/AI%2FML%20Engineering%20Internships-7B0D0D?style=for-the-badge&logoColor=white)&nbsp;
-![SDE Role](https://img.shields.io/badge/GenAI%20Research%20Collaborations-C0392B?style=for-the-badge&logoColor=white)&nbsp;
-![Freelance](https://img.shields.io/badge/Freelance%20AI%20Development-8B1010?style=for-the-badge&logoColor=white)
+I'm learning these ideas by building, breaking, debugging, and documenting them.
 
 ---
 
-## ◈ Tech Stack
+## Featured Work
 
-**Languages**
+### [VaultMind](https://github.com/DevDoshi19/VaultMind)
+**Hybrid RAG Intelligence Engine**
 
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)&nbsp;
-[![SQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://mysql.com)&nbsp;
-[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://isocpp.org)
+A production-oriented RAG application built around a LangGraph workflow.
 
-**Backend & APIs**
+**What it explores**
+- Hybrid retrieval using **ChromaDB + BM25**
+- Reciprocal Rank Fusion (RRF)
+- Query classification and relevance gating
+- Context validation and token budgeting
+- Input/output guardrails
+- Retry logic, confidence scoring, and cost tracking
+- FastAPI + Streamlit split
+- Docker Compose and GitHub Actions
+- LangSmith tracing and RAGAS evaluation
 
-[![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com)&nbsp;
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://docker.com)&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)&nbsp;
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**ML / DL Frameworks**
-
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://tensorflow.org)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**LLM / GenAI Stack**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)&nbsp;
-![LangGraph](https://img.shields.io/badge/LangGraph-7B0D0D?style=flat-square&logoColor=white)&nbsp;
-![LangSmith](https://img.shields.io/badge/LangSmith-A31515?style=flat-square&logoColor=white)&nbsp;
-![FastMCP](https://img.shields.io/badge/FastMCP-C0392B?style=flat-square&logoColor=white)&nbsp;
-![Anthropic](https://img.shields.io/badge/Claude%20API-110000?style=flat-square&logo=anthropic&logoColor=C0392B)&nbsp;
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)&nbsp;
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)&nbsp;
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-
-**Vector Stores & Automation**
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)&nbsp;
-![FAISS](https://img.shields.io/badge/FAISS-0057B8?style=flat-square&logoColor=white)&nbsp;
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)&nbsp;
-![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-
-**Tools**
-
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)&nbsp;
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://github.com/features/actions)&nbsp;
-[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://figma.com)
+**Why it matters:** this is where my AI work moved beyond “call an LLM” toward thinking about **retrieval quality, failure modes, observability, and system structure**.
 
 ---
 
-## ◈ AI / ML Expertise
+### [Bank Transaction System](https://github.com/DevDoshi19/Bank-Transaction-System)
+**Backend system for accounts, ledgers, and transfers**
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **LLM Orchestration** | `████████░░` Advanced | LangChain, LCEL, multi-step agentic pipelines |
-| **Agentic AI Systems** | `████████░░` Advanced | LangGraph state machines, n8n multi-agent routing |
-| **MCP Server Development** | `████████░░` Advanced | FastMCP typed tools, async SQLite, cloud deployment |
-| **LLM Observability** | `███████░░░` Intermediate | LangSmith tracing, evaluation, prompt versioning |
-| **Generative AI (RAG)** | `████████░░` Advanced | RAG pipelines, vector stores, retrieval tuning |
-| **Multi-LLM Integration** | `███████░░░` Intermediate | Gemini, OpenAI, Groq, Ollama, Claude — unified APIs |
-| **Deep Learning** | `██████░░░░` Intermediate | TensorFlow, ANN, CNN — supervised & unsupervised |
-| **Automation Pipelines** | `███████░░░` Intermediate | n8n workflows, Google Sheets API, scheduled agents |
+A Node.js/Express backend focused on the engineering problems behind financial transactions.
 
----
+**What it explores**
+- JWT authentication and authorization
+- Ledger-based balance calculation
+- MongoDB transactions and atomic writes
+- Idempotency keys
+- Transaction state management
+- TTL-based JWT blacklist cleanup
+- Layered backend structure
 
-
-## ◈ Experience
-
-**AI Engineer** · *AIGyde*
-`May 2026` — `Present`
-
-Designed and deployed a production-grade AI News Creation Pipeline that autonomously monitors, summarizes, and delivers the latest news to mail fully automated, zero manual intervention.
-
-- Built an end-to-end news aggregation and summarization system using LangChain and LLM APIs, covering events from the past 24 hours
-- Architected a scheduled email delivery engine that triggers every 3 hours, sourcing fresh news via NewsAPI and formatting with Jinja2 templates
-- Implemented smart caching and rate-limiting layers to minimize API overhead across high-frequency scheduled runs
-- Integrated LangSmith observability for monitoring summarization quality and iterating on prompt performance in production
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)&nbsp;
-![LangSmith](https://img.shields.io/badge/LangSmith-A31515?style=flat-square)&nbsp;
-![Tavily API](https://img.shields.io/badge/TAvilyAPI-110000?style=flat-square&logoColor=white)&nbsp;
-![Gamil auth](https://img.shields.io/badge/GmailAuth-009688?style=flat-square&logo=GmailAuth&logoColor=white)&nbsp;
+**Why it matters:** this project pushed me toward thinking about **consistency, atomicity, failure handling, and concurrent requests** rather than only API implementation.
 
 ---
 
-## ◈ Achievements
+### [Redis Live Leaderboard](https://github.com/DevDoshi19/Redis-live-leaderboard)
+**Real-time ranking with Redis Sorted Sets**
 
-<div align="center">
+A focused implementation for understanding how Redis can support continuously updated rankings.
 
-| Recognition | Details |
-|-------------|---------|
-| 🏆 **Smart India Hackathon** | Participated · 2024 & 2025 |
-| 🎯 **College Ideathon** | Participated · 2024 & 2025 |
-| 📈 **Academic Excellence** | CGPA 9.48 · B.Tech AI & Data Science · ADIT, CVM University |
-| 🚀 **Production AI Builder** | Multiple end-to-end LLM and MCP systems deployed and live |
-
-</div>
+It builds on concepts from my broader [Redis learning repository](https://github.com/DevDoshi19/Redis-learning), where I explore TTLs, hashes, queues, BullMQ, pub/sub, and sorted sets through smaller experiments.
 
 ---
 
-## ◈ Certifications
+### [AI Diagram Studio](https://github.com/DevDoshi19/AI-diagram-studio)
+**Natural language → editable architecture diagrams**
 
-**SAP · Edunet Foundation**
+A full-stack AI application using React, FastAPI, PostgreSQL/SQLite, and Excalidraw.
 
-[![SAP Foundation Course](https://img.shields.io/badge/SAP%20Foundation%20Course-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://edunetfoundation.org)&nbsp;
-![Code Unnati](https://img.shields.io/badge/Code%20Unnati%20Program-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-
-> Python Programming · Data Analysis · Artificial Intelligence · SAP Conversational AI Chatbot — *ADIT, CVM University · 2024–2025 · Certificate ID: CU25_18349*
-
-**HackerRank**
-
-[![Python](https://img.shields.io/badge/HackerRank-Python%20Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/devdoshi1927)
+The interesting part for me is the system boundary: an LLM produces structured diagram data, the backend streams it with **SSE**, and the frontend turns it into an editable canvas.
 
 ---
 
-## ◈ Coding Profiles
+## Engineering Practice
 
-<div align="center">
+### Algorithms & Problem Solving
+[DSA_ProblemSolving](https://github.com/DevDoshi19/DSA_ProblemSolving) · [DSA](https://github.com/DevDoshi19/DSA)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DevDoshi_19/)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/devdoshi1927)&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/devdoshzh1q)
+I use these repositories to build pattern recognition and strengthen the fundamentals behind problem solving — arrays, strings, linked lists, trees, graphs, heaps, binary search, stacks, queues, and related patterns.
 
-</div>
+### System Design & LLD
+[system-design-lab](https://github.com/DevDoshi19/system-design-lab) · [low-level-design-python](https://github.com/DevDoshi19/low-level-design-python)
 
----
+These are my working notes and implementations for understanding:
+**APIs, components, data flow, storage, concurrency, interfaces, and object-oriented design.**
 
-## ◈ GitHub Analytics
+### Backend Foundations
+[Redis-learning](https://github.com/DevDoshi19/Redis-learning) · [Spotify-Backend](https://github.com/DevDoshi19/Spotify-Backend)
 
-<div align="center">
+I use smaller backend projects to understand the building blocks that show up inside larger systems:
+**caching, queues, workers, authentication, storage, APIs, and service boundaries.**
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDoshi19&layout=compact&hide_border=true&langs_count=8&bg_color=110000&title_color=C0392B&text_color=ffffff" />
+### Frontend Foundations
+[TypeScript-learning](https://github.com/DevDoshi19/TypeScript-learning) · [react-learning](https://github.com/DevDoshi19/react-learning)
 
-</div>
-
-<div align="center">
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DevDoshi19&hide_border=true&background=110000&stroke=C0392B&ring=7B0D0D&fire=C0392B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=C0392B&sideLabels=C0392B&dates=888888" />
-
-</div>
+I'm currently strengthening TypeScript and React so I can understand and build across the full application boundary — not just the backend.
 
 ---
 
-## ◈ Contribution Activity
+## Current Technical Direction
 
-<div align="center">
+**AI / LLM**
+`LangChain` · `LangGraph` · `LangSmith` · `RAG` · `OpenAI` · `Gemini` · `Groq`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevDoshi19&bg_color=110000&color=C0392B&line=7B0D0D&point=ffffff&area=true&area_color=7B0D0D&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Backend**
+`Python` · `FastAPI` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `SQLAlchemy`
 
-</div>
+**Systems**
+`Redis` · `BullMQ` · `Docker` · `GitHub Actions` · `SSE` · `REST APIs`
+
+**Frontend**
+`TypeScript` · `React` · `Vite`
+
+**Foundations**
+`DSA` · `OOP` · `System Design` · `Low-Level Design`
 
 ---
 
-## ◈ Connect
+## How I Learn
 
-<div align="center">
+I try to keep a simple loop:
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdoshi1927@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdoshi19/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevDoshi19)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/devdoshi1927)
+**Learn → Build → Break → Debug → Understand → Document**
 
-</div>
+Some repositories are polished applications. Others are deliberately smaller experiments.
+
+Both are useful.
+
+The larger projects show what I can build.  
+The smaller repositories show **what I am actively learning**.
+
+---
+
+## A Few Projects Worth Exploring
+
+| Project | Focus |
+| --- | --- |
+| [VaultMind](https://github.com/DevDoshi19/VaultMind) | Hybrid RAG, LangGraph, evaluation, guardrails |
+| [Bank Transaction System](https://github.com/DevDoshi19/Bank-Transaction-System) | Transactions, ledgers, idempotency, auth |
+| [AI Diagram Studio](https://github.com/DevDoshi19/AI-diagram-studio) | AI + FastAPI + React + SSE |
+| [Redis Live Leaderboard](https://github.com/DevDoshi19/Redis-live-leaderboard) | Redis Sorted Sets and real-time ranking |
+| [System Design Lab](https://github.com/DevDoshi19/system-design-lab) | System design practice |
+| [DSA Problem Solving](https://github.com/DevDoshi19/DSA_ProblemSolving) | Algorithms and patterns |
+
+---
+
+## Beyond the Code
+
+B.Tech in **Artificial Intelligence & Data Science**.
+
+I enjoy understanding systems deeply, especially the parts that become interesting under real constraints: **scale, consistency, latency, concurrency, failure, and cost**.
+
+I'm currently exploring how strong backend fundamentals and AI engineering come together to build useful software.
 
 ---
 
 <div align="center">
 
-*"The best way to understand intelligent systems is to build one — imperfectly, iteratively, in public."*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,50:7B0D0D,100:110000&height=120&section=footer" />
+**Build things. Understand why they work. Then make them better.**
 
 </div>

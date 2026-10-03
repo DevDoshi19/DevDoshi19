@@ -4,7 +4,7 @@
 
 **AI & Backend Engineering Student · Systems Builder**
 
-I build backend and AI systems to understand how real software works — from retrieval pipelines and LLM workflows to transactions, caching, queues, and system design.
+I build backend and AI systems to understand how real software works from retrieval pipelines and LLM workflows to transactions, caching, queues, and system design.
 
 [LinkedIn](https://www.linkedin.com/in/devdoshi19/) · [LeetCode](https://leetcode.com/u/DevDoshi_19/) · [HackerRank](https://hackerrank.com/profile/devdoshi1927)
 
@@ -91,7 +91,7 @@ The interesting part for me is the system boundary: an LLM produces structured d
 ### Algorithms & Problem Solving
 [DSA_ProblemSolving](https://github.com/DevDoshi19/DSA_ProblemSolving) · [DSA](https://github.com/DevDoshi19/DSA)
 
-I use these repositories to build pattern recognition and strengthen the fundamentals behind problem solving — arrays, strings, linked lists, trees, graphs, heaps, binary search, stacks, queues, and related patterns.
+I use these repositories to build pattern recognition and strengthen the fundamentals behind problem solving arrays, strings, linked lists, trees, graphs, heaps, binary search, stacks, queues, and related patterns.
 
 ### System Design & LLD
 [system-design-lab](https://github.com/DevDoshi19/system-design-lab) · [low-level-design-python](https://github.com/DevDoshi19/low-level-design-python)
@@ -108,7 +108,7 @@ I use smaller backend projects to understand the building blocks that show up in
 ### Frontend Foundations
 [TypeScript-learning](https://github.com/DevDoshi19/TypeScript-learning) · [react-learning](https://github.com/DevDoshi19/react-learning)
 
-I'm currently strengthening TypeScript and React so I can understand and build across the full application boundary — not just the backend.
+I'm currently strengthening TypeScript and React so I can understand and build across the full application boundary not just the backend.
 
 ---
 
